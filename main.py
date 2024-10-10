@@ -9,7 +9,7 @@ bot = telebot.TeleBot(bot_token)
 
 password = '2006'
 authorized_users = {}
-owner_id = 151114945
+owner_id = [151114945]
 tests = {}
 
 def check_authorization(message):
