@@ -4,7 +4,7 @@ import random
 from fpdf import FPDF
 import os
 
-bot_token = '6915938216:AAF0xGXf7EcEVIBuIh2BFXGMFyqCLy-wHPw'
+bot_token = '6340359911:AAF7O0PUEsuwPvCtXvLSWNRRlJ0idjgwy1A'
 bot = telebot.TeleBot(bot_token)
 
 password = '2006'
